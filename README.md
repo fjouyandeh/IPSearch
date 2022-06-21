@@ -1,6 +1,5 @@
-# MaxMind
+# IP Search
 ## Desctiption
-This project was created in response to a homework assignment from MaxMind. 
 This web form allows the user to look for information for one or more IP addresses.
 
 ## Requirements
